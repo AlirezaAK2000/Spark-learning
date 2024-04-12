@@ -1,0 +1,9 @@
+name: spark-env
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterthemes
+  - pandas
+  - matplotlib
+prefix: /Users/alirezaak/anaconda3/envs/spark-env
